@@ -1,4 +1,4 @@
-![Header](https://github.com/RomanSchigolev/romanschigolev/blob/master/assets/header.jpg)
+<!-- ![Header](https://github.com/RomanSchigolev/romanschigolev/blob/master/assets/header.jpg)
 
 ## **About Me**
 
@@ -17,4 +17,4 @@ My name is Roman Schigolev, I'm from Russia(Barnaul). Student of the 4th course.
 ## **Follow Me**
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK)](https://vk.com/roman_schigolev)
 [![CodePen](https://img.shields.io/badge/-CodePen-090909?style=for-the-badge&logo=codepen)](https://codepen.io/romanschigolev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007bb6)](https://www.linkedin.com/in/romanschigolev/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007bb6)](https://www.linkedin.com/in/romanschigolev/) -->
